@@ -1,10 +1,9 @@
 🏠 **Smart Home Automation with Computer Vision & Deep Learning**
-
 An intelligent home automation system integrating object detection, activity recognition, and hardware control.
 
 📌 Overview
-
 This project implements a Smart Home Automation System using computer vision and deep learning to enhance home security, convenience, and automation. By leveraging OpenCV, YOLOv8 Nano, and Pyfirmata, the system can recognize specific activities—such as detecting when a person sits on a chair—and trigger corresponding hardware actions.
+
 
 🎯 Features
 
